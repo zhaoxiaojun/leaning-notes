@@ -3,10 +3,10 @@
 <ol>
 <li>初始化一个Git仓库，使用git init命令。</li>
 <li>添加文件到Git仓库，分两步：
-	<ul>
+	aaaa<ul>
 		<li>第一步，使用命令git add<file>,注意，可反复多次使用，添加多个文件；</li>
 		<li>使用命令git commit，完成。</li>
-	</ul>
+	bbbb</ul>
 
 </li>
 </ol>
